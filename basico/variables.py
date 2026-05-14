@@ -19,5 +19,5 @@ print(presentacion)
 
                         #Operadores de pertenencia in y not in
                     
-print(edad in presentacion) #True
-print(edad not in presentacion) #False
+print(edad in presentacion) #True 
+print(edad not in presentacion) #False  

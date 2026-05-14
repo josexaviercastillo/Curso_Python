@@ -2,7 +2,11 @@
 # pueden recorrerce con el indice, es decir desde el 0 que sería 
 # el primer elemento o el 1 quue seria el segundo elemento 
 lista = ["pepe", "plomo", 29, True]
-print(lista[0])  # Imprime "pepe"
+print(lista[0])  # Imprime "pepe"}
+
+#Con eesto se modifican los registros de la lista |||||
+lista[0] = "pablo"
+print(lista)
 
 # Tuplas ---- las tuplas son similares a las listas pero son inmutables
 # una vez creadas no pueden modificarse
